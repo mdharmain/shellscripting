@@ -1,0 +1,5 @@
+what command is used to count the total number of lines, words, characters contained in a file?
+ 1.countw
+ 2.wcount
+ 3.wc
+ 4.none of the above

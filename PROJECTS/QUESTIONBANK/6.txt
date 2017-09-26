@@ -1,0 +1,6 @@
+what command is used with vi editor to delete a single character?
+ 1.x
+ 2.y
+ 3.a
+ 4.yy
+ 

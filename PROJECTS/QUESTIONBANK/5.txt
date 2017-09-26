@@ -1,0 +1,5 @@
+what command is used to remove the directory?
+ 1.rdir
+ 2.remove
+ 3.rd
+ 4.rmdir

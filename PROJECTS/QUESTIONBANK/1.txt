@@ -1,0 +1,8 @@
+Which is the capital city of India?
+1.Mumbai
+2.Karnataka
+3.Bangalore
+4.Delhi
+
+
+

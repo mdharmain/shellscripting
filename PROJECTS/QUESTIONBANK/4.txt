@@ -1,0 +1,5 @@
+what command is used to remove files?
+ 1.dm
+ 2.rm
+ 3.delete
+ 4.erase

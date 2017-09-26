@@ -1,0 +1,5 @@
+what command is used to save the standard output in a file, as well as display it on the terminal?
+ 1.tee
+ 2.grep
+ 3.cat
+ 4.more

@@ -1,0 +1,5 @@
+what command is used to count just the number of lines contained in a file?
+ 1.wc -r
+ 2.wc -w
+ 3.wc -c
+ 4.wc -l
