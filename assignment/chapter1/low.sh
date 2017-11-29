@@ -9,13 +9,13 @@ source function.sh
 if [ $# -eq 0 ]
 then
 	echo "Pass the arguement"
-fi
+else
 
 # selecting the operation.
 echo "1. To convert lower to uppercase
 2. To convert upper to lowercase"
 read N
-
+fi
 # Operation using translate filter command.
 case $N in
 

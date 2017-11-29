@@ -43,7 +43,7 @@ echo -e "$blue WELCOME TO LINUX TEST, READ THE INSTRUCTIONS CAREFULLY BEFORE STA
 	fi
 done
 
-if [ $count = 0 ]
+if [ $count -eq 0 ]
 then
 	echo -e "$bold$red Invalid email id/password or user not signed up$normal"
 	 
